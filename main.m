@@ -3,7 +3,7 @@ clear all;
 load("data.mat");
 
 %% algorithm parameters
-lr = 0.01; % learning rate. Test for: 0.1, 0.01, 1. Maybe also for 0.0001
+lr = 0.0001; % learning rate. Test for: 0.01, 1, 0.0001
 w = [0;0;100];
 b = 0;
 r = max(abs(x(:)));
