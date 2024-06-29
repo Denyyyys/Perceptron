@@ -1,6 +1,6 @@
 # Project Describtion
 
-This project implements the training algorithm for the perceptron and also provide wisualization for training and data.
+This project implements the training algorithm for the perceptron and also provide visualization for training and data.
 
 ## Getting Started
 
