@@ -1,7 +1,9 @@
-# Project Describtion
+# Perceptron Training and Visualization
 
-This project implements the training algorithm for the perceptron and also provide visualization for training and data.
+This project implements the perceptron training algorithm and provides a visualization of the training process. Results, including decision boundary evolution, are saved in the `results` folder. Data distribution is shown in `train_data.png`.
 
 ## Getting Started
 
-If you want just just to see the data, then you can run `DisplayData.m` file. If you want to train perceptron and see wizualization for provided data, then run `main.m` in Matlab.
+To view dataset, run `DisplayData.m`.
+
+To train the perceptron and generate visualizations, run main.m in MATLAB.
